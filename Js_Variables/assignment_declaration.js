@@ -1,4 +1,4 @@
 //  declare a variable and assign value later
-var a;
+let a;
 a=10;
 console.log(a);
