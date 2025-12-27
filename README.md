@@ -38,7 +38,9 @@ before moving to advanced JavaScript topics.
 - Parameters and return values
 - Function expressions
 - Arrow functions
-
+### 🔹 Memory Allocation
+-Memory Management
+- Heap vs Stack Memory
 ### 🔹 Objects & Arrays
 - Object creation, access, and modification
 - Array creation and traversal
