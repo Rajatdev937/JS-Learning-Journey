@@ -13,7 +13,7 @@ before moving to advanced JavaScript topics.
 ### 🔹 Variables & Data Types
 - `var`, `let`, `const` → declaration, scope, redeclaration, hoisting
 - Primitive types → string, number, boolean, null, undefined, symbol, BigInt
-- Non-primitive types → objects
+- Non-primitive types → Arrays,objects,functions
 
 ### 🔹 Operators & Expressions
 - Arithmetic → `+  -  *  /  %`
