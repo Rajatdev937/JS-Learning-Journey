@@ -13,7 +13,7 @@ before moving to advanced JavaScript topics.
 ### 🔹 Variables & Data Types
 - `var`, `let`, `const` → declaration, scope, redeclaration, hoisting
 - Primitive types → string, number, boolean, null, undefined, symbol, BigInt
-- Non-primitive types → objects
+- Non-primitive types → Arrays,objects,functions
 
 ### 🔹 Operators & Expressions
 - Arithmetic → `+  -  *  /  %`
@@ -38,7 +38,9 @@ before moving to advanced JavaScript topics.
 - Parameters and return values
 - Function expressions
 - Arrow functions
-
+### 🔹 Memory Allocation
+-Memory Management
+- Heap vs Stack Memory
 ### 🔹 Objects & Arrays
 - Object creation, access, and modification
 - Array creation and traversal
