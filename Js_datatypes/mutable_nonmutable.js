@@ -32,5 +32,5 @@ console.log(n);
 //II.Strings-
 
 var a="Javascript";
-var a="java";
+a[0]="s";
 console.log(a);

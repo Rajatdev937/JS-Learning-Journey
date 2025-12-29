@@ -8,7 +8,7 @@ JS  SELFDECIDES THE DATATYPES OF VARIABLE */
 
 let a= 'Rajat';
 let b = "Negi";
-console.log(a,b);
+console.log(a,b);  
 console.log(typeof a);
 //2.Number - contains numeric values (int & float )
 //ex - 
