@@ -27,17 +27,21 @@ console.log("\n");
 //ex- 
 let x=50;
 let y="50";
-console.log(x==y);
+console.log(x==y);//only checks the value
 console.log(typeof x,"&",typeof y);
 
 /* 2. The === operator is called the strict equality operator. 
-It checks for equality without type conversion, meaning both the value and the type 
-must be exactly the same for the comparison to return true.*/
+It checks for equality without type conversion.
+*/
 //ex-
 let u=50;
 let v="50";
-console.log(u===v);
+console.log(u===v);//datatype arent same
 console.log(typeof u ,"&",typeof v);
+
+console.log("\n");
+
+
 
 
 

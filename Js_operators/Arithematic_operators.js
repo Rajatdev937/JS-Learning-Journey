@@ -21,8 +21,3 @@ y*=z//y=y*z=10*6=60;
 y/=z//y=y/z=60/6=10;
 y-=z//y=y-z=10-6=4;
 console.log(y);
-
-//Increament and Decreament 
-let i=9;
-++i;
-console.log(i);
