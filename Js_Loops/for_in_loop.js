@@ -13,5 +13,4 @@ let bike={
 }
 for(let obj in bike){
     console.log(obj,":",bike[obj]);
-    
 }

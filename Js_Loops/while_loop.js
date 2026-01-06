@@ -1,6 +1,11 @@
 //WHILE LOOP :  Runs a given set of statement or code until the condition becomes true .
 // used mostly when you dont know when will the loop will end.
-//ex- 
+/* 
+syntax:
+while(condition){
+statement
+}
+*/
 let i=0;
 while(i<=10){
 console.log(i);

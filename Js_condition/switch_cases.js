@@ -1,5 +1,4 @@
 /*SWITCH CASES : switch statement is a control structure in JavaScript that allows you to execute different blocks of code based on the value.if statements when you need to compare one variable against many possible values.*/
-
 //eg - 
 let day=3;
 

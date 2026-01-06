@@ -5,10 +5,7 @@
 syntax : 
 do{
 statement
-while(condition)
-}
-
-
+}while(condition);
 */
 //eg 
 let i=0;

@@ -1,6 +1,6 @@
 //FOR...OF LOOP :  for...of loop helps to iterate a loop or statement  over iterable objects like -
-// ARRAYS,STRINGS,OBJECTS.
-
+// ARRAYS,STRINGS.
+//not for objects
 /* 
 syntax : 
 
@@ -22,15 +22,4 @@ console.log("\n");
 let str="Rajat";
 for(let char of str){
     console.log(char);
-}
-
-//3.Object ~
-let obj={
-    name:"Rajat",
-    batch:9,
-    cgpa:9.9,
-}
-
-for(let struct of obj){
-console.log(struct,":",obj[struct]);
 }

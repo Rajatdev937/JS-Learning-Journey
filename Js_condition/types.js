@@ -24,3 +24,16 @@ else{
     console.log("Not an Adult");
 }
 
+//3.else if statement : allows  to evalute multiple condition statement within if and else.
+//eg. 
+
+var x=3;
+if(x<0){
+    console.log("Negative Number");
+}
+else if(x=0){
+    console.log("Equal");
+}
+else{
+    console.log("Positive Number");
+}
