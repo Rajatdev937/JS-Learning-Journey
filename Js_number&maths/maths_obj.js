@@ -31,9 +31,9 @@ console.log("\n");
 console.log(Math.ceil(4.1));//next int
 console.log(Math.floor(4.1));//previous int
 console.log(Math.round(5.5));
+console.log(Math.floor(7.75));//Returns Greatest int of the number.
 
 console.log("\n");
-
 
 //5.Min&Max number : 
 
@@ -45,7 +45,19 @@ console.log("\n");
 
 //6. Random Int :
 
-console.log(Math.random());
+console.log(Math.random())//return any decimal number bw  0 <= n <=1
+
+console.log("\n");
+
+
+//7.Logrithm and trignometric values : 
+console.log(Math.log(2));
+console.log(Math.log10(10));
+
+console.log(Math.sin(Math.PI/2));//value of sin 90  in radian
+console.log(Math.cos(0));//value of cos 0 
+console.log(Math.tan(Math.PI/4));
+
 
 
 
