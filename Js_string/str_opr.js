@@ -63,4 +63,23 @@ console.log(str6.slice(3));//from d to v ;
 
 //Negative index slicing:
 
-console.log(str6.slice(-12));
+console.log(str6.slice(-12));//returns last 12 characters of the string.
+
+//VI. Replacing subtrings in js
+/*
+syntax: 
+str.replace(original,replacement);
+*/
+
+let str7="Hello coders";
+console.log(str7.replace('o','hi'));
+console.log(str7.replaceAll('o','hi'));
+
+//VII.white - space  trimmer: trim() cutoffs the unnecessary white space in a string.
+
+/* 
+syntax:
+str.trim()
+*/
+let str8="  ASUS ";
+console.log(str8.trim());//cut the unnecessary white spaces.

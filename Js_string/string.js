@@ -10,5 +10,4 @@ console.log(str2);
 let str3="is a programming langauge";
 const str4=`Javascript ${str3}`;
 console.log(str4);
- 
 

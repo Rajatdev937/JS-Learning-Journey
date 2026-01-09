@@ -46,7 +46,6 @@ console.log("\n");
 //6. Random Int :
 
 console.log(Math.random())//return any decimal number bw  0 <= n <=1
-
 console.log("\n");
 
 
@@ -54,9 +53,9 @@ console.log("\n");
 console.log(Math.log(2));
 console.log(Math.log10(10));
 
-console.log(Math.sin(Math.PI/2));//value of sin 90  in radian
-console.log(Math.cos(0));//value of cos 0 
-console.log(Math.tan(Math.PI/4));
+console.log(Math.sin(Math.PI/2));//value of sin 90  in radian.
+console.log(Math.cos(0));//value of cos 0 .
+console.log(Math.tan(Math.PI/4));//value of tan 45.
 
 
 

@@ -24,6 +24,6 @@ console.log(Math.floor(Math.random()*6)+1);
 //eg- random values bw 11-15
 console.log(Math.floor(Math.random()*(25-15+1))+15);
 
-//GENERARTING 4 DIGIT OTP(1111-9999):
+//GENERARTING 4 DIGIT OTP(1000-9999):
 
-console.log(Math.floor(Math.random()*(9999-1111+1))+1111);
+console.log(Math.floor(Math.random()*(9999-1000+1))+1111);

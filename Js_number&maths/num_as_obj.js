@@ -8,3 +8,6 @@ console.log(x);
 let a = 10;
 let b = new Number(10);
 console.log(a===b); // num != obj
+
+// new can cause bugs, memory overhead, comparison issues, and is unnecessary for primitives due to auto-boxing.
+

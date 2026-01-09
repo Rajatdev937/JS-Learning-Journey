@@ -8,4 +8,6 @@ console.log(a);
 
 let str2="Computer";
 console.log(str2[0]);
+//or
 console.log(str2.charAt(4));
+
