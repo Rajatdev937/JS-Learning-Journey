@@ -14,3 +14,5 @@ console.log(arr);
 //eg-
 let size=arr.length;
 console.log(size);
+
+
