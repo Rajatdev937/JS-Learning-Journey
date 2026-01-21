@@ -46,23 +46,12 @@ let array2=[1,2,3,4];
 const array3=array.concat(array2); 
 console.log(array3);
 
-//7.Nesting of array:
-
-const array4=[array,array2];//array inside another array
-console.log(array4);
-
-
-//8.spread operator  helps to spread individual array element. 
-
-const array5=[...array,...array2];//mixed diff arrays into one.
-console.log(array5);
-
-//9.Changing array to strings.
+//8.Changing array to strings.
 
 const anime=["goku","jinwoo","aizen","Yawach","Itachi"];
 console.log(anime.toString());
 
-//10.Searching Array:
+//9.Searching Array:
 
 //I.Finding the  index :
 
@@ -78,25 +67,3 @@ console.log(alpha.lastIndexOf('u'));
 
 console.log(alpha.includes("x"));//returns true if exist
 console.log(alpha.includes("z"));//returns false if doesnt exists
-
-
-//11.Sorting an Array :
-
-let cars=['porsche','BMW','Lambo','Sierra','supra','Range Rover','Defender','Hector'];
-
-//I.Ascending order :
-
-console.log(cars.sort());//sort the elements by ascending order
-
-//II.Desending oder :
-
-console.log(cars.reverse());//sort the elements in decending order
-
-/*Note:JavaScript internally:
-Converts elements to strings
-Compares them character by character
-Uses their Unicode value to decide order */
-
-//eg- 
-let array8=[102,"rajat",true,20,4.5];
-console.log(array8.sort());

@@ -28,4 +28,4 @@ let arr3=[4,8,[1,5,8,[9,10,[33,42]],54],21,6]
 console.log(arr3.flat());//clears only one layer
 console.log(arr3.flat(2));//clears two layer
 //If nesting is unknown:
-console.log(arr3.flat(Infinity));
+console.log(arr3.flat(Infinity));//clears all

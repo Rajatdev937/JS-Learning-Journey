@@ -12,3 +12,4 @@ console.log(arr);
 
 let array=[2,3.4,54,'a',true];
 console.log(array);
+
